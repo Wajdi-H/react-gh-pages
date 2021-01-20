@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Wajdi-H/react-gh-pages.git/static/css/main.eba0ecd0.chunk.css",
-    "main.js": "/Wajdi-H/react-gh-pages.git/static/js/main.fa742b1a.chunk.js",
-    "main.js.map": "/Wajdi-H/react-gh-pages.git/static/js/main.fa742b1a.chunk.js.map",
-    "runtime-main.js": "/Wajdi-H/react-gh-pages.git/static/js/runtime-main.20441657.js",
-    "runtime-main.js.map": "/Wajdi-H/react-gh-pages.git/static/js/runtime-main.20441657.js.map",
-    "static/js/2.efaac664.chunk.js": "/Wajdi-H/react-gh-pages.git/static/js/2.efaac664.chunk.js",
-    "static/js/2.efaac664.chunk.js.map": "/Wajdi-H/react-gh-pages.git/static/js/2.efaac664.chunk.js.map",
-    "index.html": "/Wajdi-H/react-gh-pages.git/index.html",
-    "static/css/main.eba0ecd0.chunk.css.map": "/Wajdi-H/react-gh-pages.git/static/css/main.eba0ecd0.chunk.css.map",
-    "static/js/2.efaac664.chunk.js.LICENSE.txt": "/Wajdi-H/react-gh-pages.git/static/js/2.efaac664.chunk.js.LICENSE.txt",
-    "static/media/bar.4cca8615.jpg": "/Wajdi-H/react-gh-pages.git/static/media/bar.4cca8615.jpg",
-    "static/media/meetup.c88feb64.jpg": "/Wajdi-H/react-gh-pages.git/static/media/meetup.c88feb64.jpg",
-    "static/media/restaurant.c786fcca.jpg": "/Wajdi-H/react-gh-pages.git/static/media/restaurant.c786fcca.jpg"
+    "main.css": "/react-gh-pages/static/css/main.eba0ecd0.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.fa742b1a.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.fa742b1a.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.0f578bec.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.0f578bec.js.map",
+    "static/js/2.efaac664.chunk.js": "/react-gh-pages/static/js/2.efaac664.chunk.js",
+    "static/js/2.efaac664.chunk.js.map": "/react-gh-pages/static/js/2.efaac664.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.eba0ecd0.chunk.css.map": "/react-gh-pages/static/css/main.eba0ecd0.chunk.css.map",
+    "static/js/2.efaac664.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.efaac664.chunk.js.LICENSE.txt",
+    "static/media/bar.4cca8615.jpg": "/react-gh-pages/static/media/bar.4cca8615.jpg",
+    "static/media/meetup.c88feb64.jpg": "/react-gh-pages/static/media/meetup.c88feb64.jpg",
+    "static/media/restaurant.c786fcca.jpg": "/react-gh-pages/static/media/restaurant.c786fcca.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.20441657.js",
+    "static/js/runtime-main.0f578bec.js",
     "static/js/2.efaac664.chunk.js",
     "static/css/main.eba0ecd0.chunk.css",
     "static/js/main.fa742b1a.chunk.js"
